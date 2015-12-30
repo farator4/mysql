@@ -268,3 +268,30 @@ Version: '5.6.25'  socket: ''  port: 3306  MySQL Community Server (GPL)
 2015-12-30 19:32:04 2228 [Note] Event Scheduler: Loaded 0 events
 2015-12-30 19:32:04 2228 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
 Version: '5.6.25'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2015-12-30 19:46:19 8172 [Note] Plugin 'FEDERATED' is disabled.
+2015-12-30 19:46:19 528 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2015-12-30 19:46:19 8172 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2015-12-30 19:46:19 8172 [Note] InnoDB: The InnoDB memory heap is disabled
+2015-12-30 19:46:19 8172 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2015-12-30 19:46:19 8172 [Note] InnoDB: Memory barrier is not used
+2015-12-30 19:46:19 8172 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2015-12-30 19:46:19 8172 [Note] InnoDB: Not using CPU crc32 instructions
+2015-12-30 19:46:19 8172 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2015-12-30 19:46:19 8172 [Note] InnoDB: Completed initialization of buffer pool
+2015-12-30 19:46:19 8172 [Note] InnoDB: Highest supported file format is Barracuda.
+2015-12-30 19:46:19 8172 [Note] InnoDB: The log sequence numbers 1665234 and 1665234 in ibdata files do not match the log sequence number 3271112 in the ib_logfiles!
+2015-12-30 19:46:19 8172 [Note] InnoDB: Database was not shutdown normally!
+2015-12-30 19:46:19 8172 [Note] InnoDB: Starting crash recovery.
+2015-12-30 19:46:19 8172 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2015-12-30 19:46:20 8172 [Note] InnoDB: Restoring possible half-written data pages 
+2015-12-30 19:46:20 8172 [Note] InnoDB: from the doublewrite buffer...
+2015-12-30 19:46:23 8172 [Note] InnoDB: 128 rollback segment(s) are active.
+2015-12-30 19:46:23 8172 [Note] InnoDB: Waiting for purge to start
+2015-12-30 19:46:23 8172 [Note] InnoDB: 5.6.25 started; log sequence number 3271112
+2015-12-30 19:46:23 8172 [Note] Server hostname (bind-address): '*'; port: 3306
+2015-12-30 19:46:23 8172 [Note] IPv6 is available.
+2015-12-30 19:46:23 8172 [Note]   - '::' resolves to '::';
+2015-12-30 19:46:23 8172 [Note] Server socket created on IP: '::'.
+2015-12-30 19:46:23 8172 [Note] Event Scheduler: Loaded 0 events
+2015-12-30 19:46:23 8172 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.6.25'  socket: ''  port: 3306  MySQL Community Server (GPL)
