@@ -1967,3 +1967,24 @@ Version: '5.6.25'  socket: ''  port: 3306  MySQL Community Server (GPL)
 2016-01-21 19:19:30 7808 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
 Version: '5.6.25'  socket: ''  port: 3306  MySQL Community Server (GPL)
 >>>>>>> origin/Ветка-для-работы,-комиты-только-в-нее
+2016-01-23 15:46:34 7192 [Note] Plugin 'FEDERATED' is disabled.
+2016-01-23 15:46:35 18ec InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2016-01-23 15:46:35 7192 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2016-01-23 15:46:35 7192 [Note] InnoDB: The InnoDB memory heap is disabled
+2016-01-23 15:46:35 7192 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2016-01-23 15:46:35 7192 [Note] InnoDB: Memory barrier is not used
+2016-01-23 15:46:35 7192 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2016-01-23 15:46:35 7192 [Note] InnoDB: Not using CPU crc32 instructions
+2016-01-23 15:46:35 7192 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2016-01-23 15:46:35 7192 [Note] InnoDB: Completed initialization of buffer pool
+2016-01-23 15:46:39 7192 [Note] InnoDB: Highest supported file format is Barracuda.
+2016-01-23 15:46:54 7192 [Note] InnoDB: 128 rollback segment(s) are active.
+2016-01-23 15:46:54 7192 [Note] InnoDB: Waiting for purge to start
+2016-01-23 15:46:54 7192 [Note] InnoDB: 5.6.25 started; log sequence number 8528204
+2016-01-23 15:46:54 7192 [Note] Server hostname (bind-address): '*'; port: 3306
+2016-01-23 15:46:54 7192 [Note] IPv6 is available.
+2016-01-23 15:46:54 7192 [Note]   - '::' resolves to '::';
+2016-01-23 15:46:54 7192 [Note] Server socket created on IP: '::'.
+2016-01-23 15:46:58 7192 [Note] Event Scheduler: Loaded 0 events
+2016-01-23 15:46:58 7192 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.6.25'  socket: ''  port: 3306  MySQL Community Server (GPL)
